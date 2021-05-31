@@ -10,5 +10,5 @@ Autoclick script in python (.exe and source code)
 2)Choose the time between each click (in seconds)
 ![Error](https://i.imgur.com/eHIHkW0.png)
 
-3) Enjoy your autoclicker
-![](https://i.imgur.com/UXbYUwE.png)
+3)Enjoy your autoclicker
+![Error](https://i.imgur.com/UXbYUwE.png)
